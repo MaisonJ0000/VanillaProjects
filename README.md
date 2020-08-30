@@ -1,1 +1,1 @@
-# VanillarProjects
+# VanillaProjects
